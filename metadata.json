@@ -1,0 +1,6 @@
+{
+  "name": "FlowDiv",
+  "description": "CFD workflow automation and engineering consulting for MEP firms in Nepal, enabling smarter and faster HVAC, ventilation, and airflow performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
